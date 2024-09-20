@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billy-g
 - 👀 I’m interested in NLP, NodeJS, CMS, and Slack Platform applications
-- 🌱 I’m currently learning creative writing!
+- 🌱 I’m currently quitting tech to study creative writing!
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: don't
 
